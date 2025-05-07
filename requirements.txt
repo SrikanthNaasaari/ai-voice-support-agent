@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+sentence-transformers
+numpy
+SpeechRecognition
+pyttsx3
+pydub
+scipy
+pyaudio
